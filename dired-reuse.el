@@ -4,11 +4,11 @@
 ;; This file is not part of Emacs
 
 ;; Copyright (C) 2000-2001 by Joseph L. Casadonte Jr.
-;; Author:          Joe Casadonte (emacs@northbound-train.com)
-;; Maintainer:      Joe Casadonte (emacs@northbound-train.com)
+;; Author:          Joe Casadonte (emacs@northbound-train.com), crocket (crockabiscit@gmail.com)
+;; Maintainer:      crocket (crockabiscuit@gmail.com)
 ;; Created:         August 17, 2000
 ;; Keywords:        dired reuse buffer
-;; Latest Version:  http://www.northbound-train.com/emacs.html
+;; Latest Version:  https://github.com/crocket/dired-reuse
 
 ;; COPYRIGHT NOTICE
 
