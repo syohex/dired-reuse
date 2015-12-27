@@ -3,7 +3,7 @@
 
 ;; This file is not part of Emacs
 
-;; Copyright (C) 2000-2001 by Joseph L. Casadonte Jr.
+;; Copyright (C) 2000-2015 by Joseph L. Casadonte Jr.
 ;; Author:          Joe Casadonte (emacs@northbound-train.com), crocket (crockabiscit@gmail.com)
 ;; Maintainer:      crocket (crockabiscuit@gmail.com)
 ;; Created:         August 17, 2000
